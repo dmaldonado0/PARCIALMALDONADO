@@ -103,9 +103,18 @@ entonces:
 
 
 3: Sustituir
+<img width="253" height="52" alt="image" src="https://github.com/user-attachments/assets/8efed1e8-e7ca-4004-930a-e9dd432f3346" />
 
 4: Factor común
+<img width="246" height="50" alt="image" src="https://github.com/user-attachments/assets/29b92e17-1cfe-4038-80e4-0d7340f85782" />
+
 5: Propiedad lógica
+<img width="150" height="44" alt="image" src="https://github.com/user-attachments/assets/014692d7-725d-4106-92fa-9b293c1c3f3b" />
+entonces:
+<img width="116" height="39" alt="image" src="https://github.com/user-attachments/assets/76cccafa-e074-432c-8909-432f69eb44e3" />
+RESULTADO:
+<img width="116" height="39" alt="image" src="https://github.com/user-attachments/assets/397d5884-404d-4b95-bb05-f327d21a6f46" />
+
 
 
 
